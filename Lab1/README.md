@@ -7,3 +7,4 @@ Lab1 перший коміт
 6. Внесення змін за допомоги команди $ git pull
 7. синхронізація за допомоги $ git pull origin main
 8. Додавання картинки на головну сторінку
+![Image alt](http://fullhdwallpapers.ru/image/flowers/16046/kruglaya-romashka.jpg)
