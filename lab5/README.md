@@ -14,6 +14,6 @@
 ---
 7.Переходжу до Docker-compose, також перевірив чи встановленй Docker-compose та за допомогою команди "docker-compose -p lab5 up" запустив його.
 ---
-
+8.![image alt](https://github.com/AndriyRubets/IK-31-Rubets-Andriy/blob/main/lab5/1.jpg?raw=true)
 
 
