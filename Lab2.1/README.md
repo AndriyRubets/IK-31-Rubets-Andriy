@@ -9,3 +9,6 @@
 ### Створив файл app.py, та в ньому встановив бібліотеку pytest
 ---
 ###  Написав функцію, що перевіряє час доби, перевіляє зону доби AM або PM, та друкує Доброго дня/Доброго вечора
+---
+### Результат за допомогою команд направив до results.txt, а саме pipenv run pytest tests/tests.py > results.txt pipenv run python app.py >> results.txt
+---
