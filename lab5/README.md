@@ -15,9 +15,16 @@
 7.Переходжу до Docker-compose, також перевірив чи встановленй Docker-compose та за допомогою команди "docker-compose -p lab5 up" запустив його.
 ---
 8.Сайт працює
+---
 
 ![image alt](https://github.com/AndriyRubets/IK-31-Rubets-Andriy/blob/main/lab5/1.jpg?raw=true)
 ![image alt](https://github.com/AndriyRubets/IK-31-Rubets-Andriy/blob/main/lab5/2.jpg?raw=true)
 ![image alt](https://github.com/AndriyRubets/IK-31-Rubets-Andriy/blob/main/lab5/3.jpg?raw=true)
+---
+
+9.Compose створив docker image, тег для імеджів - compose
+---
+10.Зробив push image в DockerHub.
+---
 
 
