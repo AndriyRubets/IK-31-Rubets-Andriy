@@ -17,7 +17,7 @@ RUN git clone https://github.com/AndriyRubets/IK-31-Rubets-Andriy.git
 
 # Створюємо остаточну робочу папку з Веб-сайтом та копіюємо туди файли
 #WORKDIR /app
-RUN cp -r IK-31-Rubets-Andriy/lab3/* .
+RUN cp -r AndriyRubets/lab4/* .
 
 # Інсталюємо всі залежності
 RUN pipenv install
